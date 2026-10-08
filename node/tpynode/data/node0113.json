@@ -1,0 +1,76 @@
+{
+    "IVindex": 0,
+    "IVupdate": 0,
+    "appKeys": [
+        {
+            "boundNetKey": 0,
+            "index": 0,
+            "key": "d56193c61a57ab76d689cd8e3989e418",
+            "keyRefresh": 0
+        },
+        {
+            "boundNetKey": 0,
+            "index": 1,
+            "key": "e308e8477706fa11f256a2773185e147",
+            "keyRefresh": 0
+        },
+        {
+            "boundNetKey": 0,
+            "index": 2,
+            "key": "a77827c1d9ed1740e7be1ccc252b551a",
+            "keyRefresh": 0
+        }
+    ],
+    "cid": "0000",
+    "crpl": "0010",
+    "defaultTTL": 85,
+    "deviceKey": "3bda64c4e51e0de041a1583e2c35425f",
+    "elements": [
+        {
+            "elementIndex": 0,
+            "location": "0000",
+            "models": [
+                {
+                    "modelId": "0000"
+                },
+                {
+                    "bind": [
+                        "0002"
+                    ],
+                    "modelId": "00e0d0f0"
+                },
+                {
+                    "bind": [
+                        "0001"
+                    ],
+                    "modelId": "1001"
+                },
+                {
+                    "bind": [
+                        "0001"
+                    ],
+                    "modelId": "1000"
+                }
+            ]
+        }
+    ],
+    "friend": "enabled",
+    "lpn": "unsupported",
+    "netKeys": [
+        {
+            "index": 0,
+            "key": "21eb6ebf75d70f1b71059ee67262a5a1",
+            "keyRefresh": 0
+        }
+    ],
+    "pid": "0000",
+    "proxy": "unsupported",
+    "relay": {
+        "count": 1,
+        "interval": 100,
+        "mode": "enabled"
+    },
+    "sequenceNumber": 0,
+    "unicastAddress": "0113",
+    "vid": "0000"
+}

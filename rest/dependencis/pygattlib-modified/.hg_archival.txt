@@ -1,0 +1,6 @@
+repo: fcfa2643f183c6201ca4a7e12a3a9fd9b30965ef
+node: a858e8626a93cb9b4ad56f3fb980a6517a0702c6
+branch: default
+latesttag: 0.20150805
+latesttagdistance: 8
+changessincelatesttag: 8
